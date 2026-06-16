@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice,Supplier
+1001,Laptop,Electronics,Laptop,Contoso,304,6574,Supplier_3
+1002,Mobile,Electronics,Mobile,Fabrikam,1928,1643,Supplier_1
+1003,Tablet,Electronics,Tablet,Contoso,4937,3956,Supplier_1
+1004,Chair,Home,Chair,Contoso,867,2291,Supplier_2
+1005,Table,Home,Table,Contoso,4697,2128,Supplier_5
+1006,Sofa,Home,Sofa,AdventureWorks,1905,4179,Supplier_5
+1007,Shirt,Fashion,Shirt,Northwind,153,6716,Supplier_2
+1008,Jeans,Fashion,Jeans,AdventureWorks,2887,2776,Supplier_2
+1009,Jacket,Fashion,Jacket,Fabrikam,2857,1337,Supplier_1
+1010,Football,Sports,Football,AdventureWorks,892,3440,Supplier_3
+1011,Cricket Bat,Sports,Cricket Bat,Northwind,455,6477,Supplier_4
+1012,Tennis Racket,Sports,Tennis Racket,Contoso,3200,1145,Supplier_5
